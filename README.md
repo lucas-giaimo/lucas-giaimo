@@ -3,13 +3,13 @@
 
 
 <h1 align="center">Bonjour👋, moi c'est Lucas</h1>
-<h3 align="center">Apprentie programer</h3>
+<h3 align="center">Apprenti programmeur</h3>
 
-- 🔭 Je travail en ce moment sur un projet de **site internet**
+- 🔭 Je travail en ce moment sur un projet de **script automatisé**
 
-- 🌱 Je suis en train d'apprendre **le css et le html**
+- 🌱 Je suis en train d'apprendre **le controle et la sécurité réseau**
 
-- 🤝 J'aimerais recevoir des tips sur **HTML**
+- 🤝 J'aimerais recevoir des tips sur **Shell**
 
 - 📫 Comment me contacter **lucas.giaimo@laplateforme.io**
 
