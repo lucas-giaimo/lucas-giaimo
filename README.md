@@ -3,13 +3,13 @@
 
 
 <h1 align="center">Bonjour👋, moi c'est Lucas</h1>
-<h3 align="center">Apprenti programmeur</h3>
+<h3 align="center">Futur alternant en Système et réseau</h3>
 
-- 🔭 Je travail en ce moment sur un projet de **script automatisé**
+- 🔭 Je travail en ce moment sur un projet d' **installation de VPN opensource**
 
 - 🌱 Je suis en train d'apprendre **le controle et la sécurité réseau**
 
-- 🤝 J'aimerais recevoir des tips sur **Shell**
+- 🤝 J'aimerais recevoir des tips sur **Windows server**
 
 - 📫 Comment me contacter **lucas.giaimo@laplateforme.io**
 
